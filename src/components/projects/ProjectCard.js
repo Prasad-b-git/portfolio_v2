@@ -2,6 +2,7 @@ import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
 import { Link } from 'react-router-dom';
+import { VscAzure } from "react-icons/vsc";
 import { FaGithub, FaExternalLinkAlt } from 'react-icons/fa';
 import { 
   SiKubernetes, 
@@ -9,7 +10,6 @@ import {
   SiJenkins, 
   SiDocker, 
   SiAmazonaws, 
-  SiMicrosoftazure, 
   SiGooglecloud,
   SiPython,
   SiJavascript,
