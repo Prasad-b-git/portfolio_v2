@@ -1,7 +1,7 @@
 import React from 'react';
 import styled from 'styled-components';
-import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom';
+//import { motion } from 'framer-motion';
+//import { Link } from 'react-router-dom';
 import projects from '../../data/projects';
 import ProjectCard from '../projects/ProjectCard';
 
