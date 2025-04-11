@@ -1,10 +1,10 @@
 import React from 'react';
 import styled from 'styled-components';
 import { motion } from 'framer-motion';
-import { Link } from 'react-router-dom';
+//import { Link } from 'react-router-dom';
 import projects from '../data/projects';
 import ProjectFilter from '../components/projects/ProjectFilter';
-import ProjectCard from '../components/projects/ProjectCard';
+//import ProjectCard from '../components/projects/ProjectCard';
 
 const ProjectsPage = () => {
   return (
